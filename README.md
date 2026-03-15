@@ -53,7 +53,8 @@ The project demonstrates how business intelligence tools can support road safety
 - Development of mobile-friendly analytics reporting  
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshots here)
+![Dashboard Preview 1](Detailed_Analysis.jpg)
+![Dashboard Preview 2](Road_Accident_in_TG.jpg)
 
 ## 👤 Author
 **Sagar**  
